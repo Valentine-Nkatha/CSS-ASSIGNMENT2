@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: cornflowerblue;
+    background-size: cover;
+}
+sign-in-page{
+    width: 30px;
+    background-color: cornflowerblue;
+    padding:20px;
+    margin:8% auto;
+text-align: center;
+
+}
+button{
+    colour:black;
+    width: 10%;
+    padding:10px;
+}
